@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Angraj Singh
 
-🎓 Computer Science student at **Chandigarh University (2022–2026)**  
+🎓 Computer Science student at **Chandigarh University (2023–2026)**  
 💻 Passionate about building web applications using **HTML, CSS, JavaScript, PHP**  
 🚀 Currently learning **WordPress, CRON jobs, API integration**  
 📩 Reach me at: **angraj6576@gmail.com**
